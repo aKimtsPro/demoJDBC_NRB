@@ -13,5 +13,5 @@ BEGIN
 
     DELETE FROM student WHERE student_id=to_delete_id;
 
-END
+END //
 DELIMITER ;
